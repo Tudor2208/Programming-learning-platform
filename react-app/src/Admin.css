@@ -1,0 +1,61 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+
+  }
+  
+  th,
+  td {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  button {
+    background-color: #a61824;
+    color: white;
+    border: none;
+    padding: 50px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px; 
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+
+  th {
+    color: white;
+    font-size: 18px;
+  }
+
+  td {
+    color: white;
+    font-size: 15px;
+  }
+
+table:hover {
+    color: white;
+}
+
+table-container {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    width: 50%;
+}
+
+.delete-btn {
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    background-color: #28242c;
+  }
+
+  h3 {
+    color:white
+  }
+  

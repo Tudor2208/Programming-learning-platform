@@ -1,0 +1,50 @@
+.type {
+    color: red;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.details {
+    color: white;
+    padding-left: 50px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.content {
+
+    margin-left: 100px;
+}
+
+.problem-textarea {
+   /* background-color: #40444c; */
+   background: transparent;
+   border-radius: 10px;
+   border-width: 4px;
+   border-style: double;
+   color: white;
+   font-size: 20px;
+   text-align: left;
+   margin-left: 0;
+}
+
+.label-green {
+    font-size: 25px;
+    color: green;
+}
+
+.label-yellow {
+    font-size: 25px;
+    color: yellow;
+}
+
+.label-red {
+    font-size: 25px;
+    color: red;
+}
+
+.label-green2 {
+    font-size: 25px;
+    color: #80c965;
+}
